@@ -1,0 +1,1 @@
+cout<<"both numbers are:"<<arr[j]<<" "<<arr[i]<<endl;
